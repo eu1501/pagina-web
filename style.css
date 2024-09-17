@@ -1,0 +1,21 @@
+body{
+    background:  rgb(131, 86, 28);
+    color: black;
+    margin: 0px;
+
+}
+header{
+    border-bottom: solid 2px whitesmoke;
+    padding: 20px;
+    font-size: 50px;
+} 
+section{
+    display: flex;
+    background: rgb(194, 167, 127);
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.titulo-video{
+    margin-right: 5%;
+}
